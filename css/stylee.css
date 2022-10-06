@@ -83,7 +83,7 @@ header{
 nav{
     margin-bottom: var(--spacing);
     width: 100%;
-    box-shadow: 0 6rem 1rem rgba(0,0,0,.1); 
+/*     box-shadow: 0 6rem 1rem rgba(0,0,0,.1);  */
 }
 
 ul a, ul span{
